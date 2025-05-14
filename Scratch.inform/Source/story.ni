@@ -61,3 +61,9 @@ Section 5 - Desk Test (not for release)
 TEST PUSHING WITH "north / push desk south / look / push desk north".
 
 TEST FINDING WITH "look in middle drawer / look in bottom drawer / take bottom drawer / look".
+
+Section - A Person That Varies
+
+The customer is a person that varies. When play begins: now the customer is the player.
+
+The Shop is northwest of The One Room.  "You see [the customer] here."
